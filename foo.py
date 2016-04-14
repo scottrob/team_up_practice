@@ -4,6 +4,5 @@ print('redstuff')
 
 print('it')
 
-
-def whatever():
+def somethig():
     print('hello')
