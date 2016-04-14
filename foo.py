@@ -1,4 +1,5 @@
 print('foo')
 print('redstuff')
 
-print('school')
+
+print('it')
