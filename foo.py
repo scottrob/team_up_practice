@@ -1,5 +1,6 @@
 print('foo')
 print('redstuff')
 
-
-print('it')
+def prints():
+    print('it')
+prints()
